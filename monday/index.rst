@@ -11,3 +11,4 @@ Monday
    hawkins
    nishiyama
    vyedin
+   lightning
