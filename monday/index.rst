@@ -6,3 +6,4 @@ Monday
 
    holscher
    christensen
+   spivak
