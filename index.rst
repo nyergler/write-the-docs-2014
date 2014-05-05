@@ -5,7 +5,7 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    monday/index
    tuesday/index

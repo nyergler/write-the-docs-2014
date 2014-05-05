@@ -1,8 +1,11 @@
 Monday
 ======
 
+Morning
+-------
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    holscher
    christensen
@@ -11,4 +14,11 @@ Monday
    hawkins
    nishiyama
    vyedin
+
+Afternoon
+---------
+
+.. toctree::
+   :maxdepth: 1
+
    lightning
