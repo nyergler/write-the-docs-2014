@@ -7,3 +7,4 @@ Monday
    holscher
    christensen
    spivak
+   waterhouse
