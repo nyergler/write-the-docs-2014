@@ -3,7 +3,7 @@ Flow: A Permaculture Approach to Documentation Projects
 
 :Authors:  R. N. Homer Christensen
 :Time: 9:20 - 10:00
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#r-n-homer-christensen-flow-a-permaculture-approach-to-documentation-projects
 :Link:
 
 Technical writer and instructional designer, and a practicing permie.

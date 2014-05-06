@@ -3,7 +3,7 @@ Graphical Explanations
 
 :Authors: Geoffrey Grosenbach
 :Time: 14:10 - 14:30
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#geoffrey-grosenbach-graphical-explanations
 :Link:
 
 Formerly ran PeepCode, now at PluralSight.

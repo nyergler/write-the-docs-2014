@@ -3,7 +3,7 @@ Ignorance is Strength
 
 :Authors: Amalia Hawkins
 :Time: 11:00 - 11:40
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#amalia-hawkins-ignorance-is-strength-writing-documentation-by-learning-as-you-go
 :Link:
 
 "Writing documentation by learning as you go."

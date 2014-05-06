@@ -3,7 +3,7 @@ The New Sheriff in Town: Bringing Documentation Out of Chaos
 
 :Authors: Heidi Waterhouse
 :Time: 10:20 - 10:40
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#heidi-waterhouse-the-new-sheriff-in-town-bringing-documentation-out-of-chaos
 :Link:
 
 Technical documentarian of almost 20 years, and here to talk about the

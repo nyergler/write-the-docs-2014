@@ -3,7 +3,7 @@ Did It In Minutes: The Art of Documenting Meeting Notes
 
 :Authors: Mo Nishiyama
 :Time: 11:40 - 12:00
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#mo-nishiyama-did-it-in-minutes-the-art-of-documenting-meeting-notes
 :Link:
 
 See also: "Did It In a Minute", Hall/Oates

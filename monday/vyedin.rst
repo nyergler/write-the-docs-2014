@@ -3,7 +3,7 @@ Hacking the English Language
 
 :Authors: Nina Vyedin
 :Time: 12:00 - 12:20
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#nina-vyedin-hacking-the-english-language
 :Link:
 
 **Or, what can we learn about writing from our programmer friends.**

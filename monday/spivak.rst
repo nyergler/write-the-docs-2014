@@ -3,7 +3,7 @@ Communities Are Awesome
 
 :Authors: Ali Spivak
 :Time: 10:00 - 10:20
-:Session:
+:Session: http://docs.writethedocs.org/2014/na/talks/#ali-spivak-communities-are-awesome
 :Link:
 
 Works for Mozilla, which some people may not be aware is a non-profit,

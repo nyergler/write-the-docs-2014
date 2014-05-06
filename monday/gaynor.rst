@@ -3,8 +3,8 @@ Documenting Domain Specific Knowledge
 
 :Authors: Alex Gaynor
 :Time: 13:50 - 14:10
-:Session:
-:Link: http://speakerdeck.com/alex/
+:Session: http://docs.writethedocs.org/2014/na/talks/#alex-gaynor-documenting-domain-specific-knowledge
+:Link: https://speakerdeck.com/alex/documenting-domain-specific-knowledge
 
 Alex got his start writing software working on the Django project, a
 project with a very strong culture of documentation. So what do users
