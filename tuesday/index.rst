@@ -7,7 +7,7 @@ Morning
 .. toctree::
    :maxdepth: 1
 
-   jayne
+   jaynes
    salituro
    pearson
    kelleher
