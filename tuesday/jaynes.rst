@@ -1,7 +1,7 @@
 Putting the (docs) Cart Before the (standards) Horse
 ====================================================
 
-:Authors: Drew Jayne
+:Authors: Drew Jaynes
 :Time: 9:00 - 9:20
 :Session: http://docs.writethedocs.org/2014/na/talks/#drew-jaynes-putting-the-docs-cart-before-the-standards-horse
 :Link:
